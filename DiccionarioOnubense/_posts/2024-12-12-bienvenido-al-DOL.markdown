@@ -3,6 +3,7 @@ layout: post
 title:  "¡Bienvenido al Diccionario Onubense Libre!"
 date:   2024-12-12 13:24:29 +0100
 categories: welcome
+permalink: /post-Bienvenida/
 ---
 
 
