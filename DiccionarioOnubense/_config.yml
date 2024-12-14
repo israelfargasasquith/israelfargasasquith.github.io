@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Este diccionario libre onubense, creado con la colaboración de hablantes nativos y entusiastas de la cultura onubense. 
   Este proyecto busca preservar y difundir las particularidades lingüísticas de la región de Huelva. 
   Además, se invita a la comunidad a contribuir con nuevas palabras y expresiones, enriqueciendo así este recurso colectivo y manteniendo viva la riqueza del habla onubense.
-baseurl: "DiccionarioOnubense" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: IFA_dev
 github_username:  israelfargasasquith
@@ -33,7 +33,7 @@ github_username:  israelfargasasquith
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
