@@ -1,7 +1,9 @@
 ---
 layout: post
-date:   2024-12-14 23:24:29 +0100
+date:   2024-12-15 23:24:29 +0100
 title: Zajurda y Malaje
+permalink: /zajurda-y-malaje/
+
 ---
 
 Zajurda y Malaje: Es el primer término conjunto que recogemos en el blog, se dice de una persona que tiene poca higiene personal y además es malentiencionada. La combinación de ambos adjetivos acentúa la connotación negativa, describiendo a alguien cuya presencia resulta desagradable tanto en lo físico como en lo moral.
